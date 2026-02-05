@@ -1,0 +1,9 @@
+opencv-python-headless==4.8.1.78
+streamlit>=1.30.0
+mediapipe>=0.10.0
+numpy
+Pillow
+pandas
+watchdog
+plotly
+scipy
